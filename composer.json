@@ -1,0 +1,19 @@
+{
+    "name": "desenvolvimento/numeros-romanos",
+    "description": "Converte números indo-arábicos em romanos",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Desenvolvimento\\NumerosRomanos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sidnei Simeão",
+            "email": "sidneisimmon@gmail.com"
+        }
+    ]
+}
